@@ -1,3 +1,13 @@
 body {
-
+  background-color: lightblue;
+}
+h1{
+  color: yellow;
+  font-size: 350%
+   line-height: 0.01;
+}
+p{
+  color: purple;
+  line-height: .0001;
+  font-size: 100%
 }
